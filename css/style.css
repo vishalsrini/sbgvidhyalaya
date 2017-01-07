@@ -293,7 +293,7 @@ h1,h2,h3,h4,h5,h6,label,p{
     height: 518px;
 }
 .content-mid-img1{
-    background: url("https://vishalsrini.github.io/sbgvidhyalaya/images/right.jpg") no-repeat center;
+    background: url(../images/right.jpg) no-repeat center;
     width: 100%;
     background-size: cover;
     height: 518px;
@@ -1574,7 +1574,7 @@ h4.media-heading {
     padding: 0 0 3em;
 }
 .content-mid-img1 {
-    background: url(../images/pi.jpg) no-repeat top;
+    background: url(../images/right.jpg) no-repeat top;
 }
 /*--about--*/
 .about-img1,.about-img2 {
