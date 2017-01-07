@@ -1,9 +1,3 @@
-/*Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
-
 body{
 	background:#fff;
 	font-family: 'Didact Gothic', sans-serif;
@@ -293,13 +287,13 @@ h1,h2,h3,h4,h5,h6,label,p{
 	background-color: #FCFCFC;
 }
 .content-mid-img{
-	background: url(../images/pi1.jpg) no-repeat center;
+	background: url(../images/side.jpg) no-repeat center;
     width: 100%;
     background-size: cover;
     height: 518px;
 }
 .content-mid-img1{
-	background: url(../images/pi.jpg) no-repeat center;
+	background: url(../images/right.jpg) no-repeat center;
     width: 100%;
     background-size: cover;
     height: 518px;
