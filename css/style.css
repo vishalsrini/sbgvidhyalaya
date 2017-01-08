@@ -53,6 +53,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 	    display:block;
 	    text-align:center;
 	    margin: 0em auto 0.5em;
+	width:20%;
 	}
 	.logo  a:hover{
 		text-decoration:none;
